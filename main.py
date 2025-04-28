@@ -26,7 +26,10 @@ def hello() -> str:
     Returns:
         A string with the words 'Hello World!'.
     """
-    return "<h1>hello world</h1>"
+    return """
+    <h1>hello world</h1>
+    <a href="www.google.com">google</a>
+    """
 
 
 if __name__ == "__main__":
