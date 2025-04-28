@@ -28,7 +28,7 @@ def hello() -> str:
     """
     return """
     <h1>hello world</h1>
-    <a href="www.google.com">google</a>
+    <a href="https://www.google.co.in/">google</a>
     """
 
 
